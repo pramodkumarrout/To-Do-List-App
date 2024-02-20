@@ -1,0 +1,17 @@
+/* This is  universal selector that can apply all html element inside of the selector query*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*for class container */
+
+.container {
+      width: 100%;
+      min-height: 100vh;
+      background: linear-gradient(135deg, #153677, #4e085f);
+      padding: 10px;
+}
